@@ -1,4 +1,4 @@
-# Real Estate Application
+# Real Estate Application_rest_api
 
 The Real Estate Application is a web-based application built using Spring Boot that provides CRUD operations for managing customers, properties, requirements, rent records, transactions, and sales in a real estate context.
 
@@ -15,7 +15,6 @@ The Real Estate Application is a web-based application built using Spring Boot t
 - Java
 - Spring Boot
 - Spring Data JPA
-- Hibernate
 - H2 Database (In-memory database for testing)
 - Maven
 
@@ -31,12 +30,12 @@ Link: https://github.com/BrijeshPatra/RealEstate_rest_api.git
 
 3. Build the application using Maven:
 
-mvn clean install
+* mvn clean install
 
 
 4. Run the application:
 
-mvn spring-boot:run
+* mvn spring-boot:run
 
 5. The application will start running at `http://localhost:8080`.
 
@@ -51,7 +50,7 @@ The following are the API endpoints available in the application:
 - `/transaction`: CRUD operations for managing transactions.
 - `/sales`: CRUD operations for managing sales.
 
-Please refer to the controller classes for detailed information about the request mappings and request/response structures for each endpoint.
+Please refer to the controller classes for detailed information about the request mappings and request/response structures for each endpoint and lastly test it using POSTMAN sequentially for customer,property,rent and all other entities.
 
 ## Contributing
 
