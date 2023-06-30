@@ -15,6 +15,7 @@ The Real Estate Application is a web-based application built using Spring Boot t
 - Java
 - Spring Boot
 - Spring Data JPA
+- Hibernate(ORM framework for mapping java objects to relational database tables)
 - H2 Database (In-memory database for testing)
 - Maven
 
