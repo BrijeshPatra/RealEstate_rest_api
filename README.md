@@ -25,7 +25,7 @@ To run the application locally, follow these steps:
 
 1. Clone the repository:
 
-Link: 
+Link: https://github.com/BrijeshPatra/RealEstate_rest_api.git
 
 2. Navigate to the project directory:
 
